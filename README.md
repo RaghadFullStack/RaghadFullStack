@@ -5,7 +5,7 @@
 
 ---
 
-##🚀 About Me  
+🚀 About Me  
 - 🎓 Diploma in Computer Programming (GPA: 4.85/5)  
 - 💼 Internship @ King Fahad Medical City (2025)  
 
