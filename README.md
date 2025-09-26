@@ -28,15 +28,6 @@
 ---
 
 
-
----
-
-## 📊 GitHub Stats  
-![Raghad's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghad-alotaibi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghad-alotaibi&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌐 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/raghad-alotaibi-2a1638279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - 🌍 [Portfolio](https://yourportfolio.com)  
