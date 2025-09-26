@@ -1,6 +1,6 @@
 # 👩‍💻 Hi, I'm Raghad Alotaibi  
 
-✨ Computer Science Student | Aspiring Full Stack Web Developer  
+✨ Fresh Graduate in Programming | Aspiring Full Stack Web Developer  
 📍 Riyadh, Saudi Arabia  
 
 ---
