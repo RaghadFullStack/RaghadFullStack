@@ -8,8 +8,7 @@
 ## 🚀 About Me  
 - 🎓 Diploma in Computer Programming (GPA: 4.85/5)  
 - 💼 Internship @ King Fahad Medical City (2025)  
-- 🌱 Learning *Java, React, and ASP.NET*  
-- 🔭 Building my graduation project *Engineering Online Contractor (EOC)*  
+
 
 ---
 
@@ -21,7 +20,6 @@
 ![PHP](https://img.shields.io/badge/Code-PHP-purple?logo=php)  
 ![HTML](https://img.shields.io/badge/Markup-HTML-orange?logo=html5)  
 ![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css3)  
-![React](https://img.shields.io/badge/Framework-React-61DBFB?logo=react)  
 ![ASP.NET](https://img.shields.io/badge/Framework-ASP.NET-512BD4?logo=dotnet)  
 ![Bootstrap](https://img.shields.io/badge/UI-Bootstrap-7952B3?logo=bootstrap)  
 ![SQL Server](https://img.shields.io/badge/DB-SQL%20Server-CC2927?logo=microsoftsqlserver)  
