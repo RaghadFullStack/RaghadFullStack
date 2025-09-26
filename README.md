@@ -1,13 +1,15 @@
-👩‍💻 Hi, I'm Raghad Alotaibi  
+# 👩‍💻 Hi, I'm Raghad Alotaibi  
 
-✨ programmer  | Aspiring Full Stack Web Developer  
+✨ Computer Science Student | Aspiring Full Stack Web Developer  
 📍 Riyadh, Saudi Arabia  
 
 ---
 
-🚀 About Me  
+## 🚀 About Me  
 - 🎓 Diploma in Computer Programming (GPA: 4.85/5)  
 - 💼 Internship @ King Fahad Medical City (2025)  
+- 🌱 Learning *Java, React, and ASP.NET*  
+- 🔭 Building my graduation project *Engineering Online Contractor (EOC)*  
 
 ---
 
@@ -19,11 +21,47 @@
 ![PHP](https://img.shields.io/badge/Code-PHP-purple?logo=php)  
 ![HTML](https://img.shields.io/badge/Markup-HTML-orange?logo=html5)  
 ![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css3)  
+![React](https://img.shields.io/badge/Framework-React-61DBFB?logo=react)  
 ![ASP.NET](https://img.shields.io/badge/Framework-ASP.NET-512BD4?logo=dotnet)  
 ![Bootstrap](https://img.shields.io/badge/UI-Bootstrap-7952B3?logo=bootstrap)  
 ![SQL Server](https://img.shields.io/badge/DB-SQL%20Server-CC2927?logo=microsoftsqlserver)  
 ![MySQL](https://img.shields.io/badge/DB-MySQL-4479A1?logo=mysql)  
 ![Oracle APEX](https://img.shields.io/badge/DB-Oracle%20APEX-F80000?logo=oracle)  
+
+---
+
+## 🌟 Featured Widgets  
+
+### 🔥 GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghadfullstack&theme=tokyonight)
+
+### 🏆 GitHub Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=raghadfullstack&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 👁 Visitor Count  
+![Visitor Count](https://profile-counter.glitch.me/raghadfullstack/count.svg)
+
+---
+
+## 📊 GitHub Stats  
+![Raghad's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghadfullstack&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghadfullstack&layout=compact&theme=tokyonight)
+
+---
+
+## 🌟 Top Projects
+- [*Engineering Online Contractor (EOC)*](https://github.com/raghadfullstack/EOC)  
+  A responsive web app that connects clients with qualified engineers.  
+  Tech stack: HTML, CSS, JavaScript, PHP, MySQL  
+
+- [*Book Store Website*](https://github.com/raghadfullstack/bookstore)  
+  Dynamic online bookstore with front-end interactivity using JavaScript.  
+
+- [*Coffee Store Website*](https://github.com/raghadfullstack/coffeestore)  
+  PHP-based e-commerce website with database integration.  
+
+- [*Dental Clinic Database*](https://github.com/raghadfullstack/dental-db)  
+  Database system focused on data integrity and query optimization.  
 
 ---
 
