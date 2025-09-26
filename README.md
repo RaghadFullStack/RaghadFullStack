@@ -36,8 +36,6 @@
 ### 🏆 GitHub Trophies  
 [![trophy](https://github-profile-trophy.vercel.app/?username=raghadfullstack&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 👁 Visitor Count  
-![Visitor Count](https://profile-counter.glitch.me/raghadfullstack/count.svg)
 
 ---
 
@@ -52,14 +50,12 @@
   A responsive web app that connects clients with qualified engineers.  
   Tech stack: HTML, CSS, JavaScript, PHP, MySQL  
 
-- [*Book Store Website*](https://github.com/raghadfullstack/bookstore)  
+- [*Book Store Website*](https://github.com/raghadfullstack/Libarary)  
   Dynamic online bookstore with front-end interactivity using JavaScript.  
 
-- [*Coffee Store Website*](https://github.com/raghadfullstack/coffeestore)  
+- [*Coffee Store Website*](https://github.com/raghadfullstack/coffee-shop)  
   PHP-based e-commerce website with database integration.  
 
-- [*Dental Clinic Database*](https://github.com/raghadfullstack/dental-db)  
-  Database system focused on data integrity and query optimization.  
 
 ---
 
