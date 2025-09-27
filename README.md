@@ -1,7 +1,5 @@
 <!-- خلفية نجوم متحركة في الأعلى -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Galaxy Stars" width="100%" />
-</p>
+
 
 # 🌌 Greetings, I am Raghad Alotaibi  
 
