@@ -1,19 +1,9 @@
-<!-- 🌌 GIF نجوم متحركة أعلى الصفحة -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Galaxy Stars" width="100%" />
-</p>
-
 # 🌌 Greetings, I am Raghad Alotaibi  
 
 ✨ **Padawan of Programming** | Aspiring Full Stack Web Developer  
 📍 Riyadh, Saudi Arabia  
 
 ---
-
-<!-- 🌠 Divider GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Divider Stars" width="100%" />
-</p>
 
 ## 🚀 About Me  
 - 🎓 Diploma in Computer Programming (GPA: 4.85/5)  
@@ -23,12 +13,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Divider Stars" width="100%" />
-</p>
-
 ## 🛠 Jedi Tech Stack  
 
+<!-- Animated Shields (spin, glow effect imitation via color) -->
 ![Java](https://img.shields.io/badge/⚔️Java-red?style=for-the-badge&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/✨Python-yellow?style=for-the-badge&logo=python&logoColor=blue)  
 ![C#](https://img.shields.io/badge/🔹C%23-green?style=for-the-badge&logo=c-sharp&logoColor=white)  
@@ -43,10 +30,6 @@
 ![Oracle APEX](https://img.shields.io/badge/✨OracleAPEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Divider Stars" width="100%" />
-</p>
 
 ## 🌟 Galactic Widgets  
 
@@ -64,20 +47,19 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Divider Stars" width="100%" />
-</p>
-
 ## 🌟 Star Projects
 
 - 🚀 [**Engineering Online Contractor (EOC)**](https://github.com/raghadfullstack/EOC)  
+  ![Ship GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
   A responsive web application connecting clients with skilled engineers across the galaxy.  
   *Tech Stack: HTML, CSS, JavaScript, PHP, MySQL*  
 
 - 🛸 [**Book Store Website**](https://github.com/raghadfullstack/Libarary)  
+  ![Ship GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
   Dynamic online bookstore powered by the Force with interactive front-end.  
 
 - 🌌 [**Coffee Store Website**](https://github.com/raghadfullstack/coffee-shop)  
+  ![Ship GIF](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)  
   PHP-based e-commerce platform with full database integration to fuel Jedi missions.  
 
 ---
