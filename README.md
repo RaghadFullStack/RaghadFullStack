@@ -1,3 +1,8 @@
+<!-- إضافة خلفية نجوم متحركة -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Galaxy Stars" width="100%" />
+</p>
+
 # 🌌 Greetings, I am Raghad Alotaibi  
 
 ✨ **Padawan of Programming** | Aspiring Full Stack Web Developer  
@@ -15,18 +20,18 @@
 
 ## 🛠 Jedi Tech Stack  
 
-![Java](https://img.shields.io/badge/⚔️Java-red?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/✨Python-yellow?style=for-the-badge&logo=python&logoColor=blue)  
-![C#](https://img.shields.io/badge/🔹C%23-green?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/⚡JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=yellow)  
-![PHP](https://img.shields.io/badge/🛡️PHP-purple?style=for-the-badge&logo=php&logoColor=white)  
-![HTML](https://img.shields.io/badge/🌠HTML-orange?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/🌌CSS-blue?style=for-the-badge&logo=css3&logoColor=white)  
-![ASP.NET](https://img.shields.io/badge/⚔️ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/🚀Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/🛡️SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
-![MySQL](https://img.shields.io/badge/🌌MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Oracle APEX](https://img.shields.io/badge/✨OracleAPEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![Java](https://img.shields.io/badge/⚔️Java-red?style=for-the-badge&logo=java&logoColor=white&animation=spin)  
+![Python](https://img.shields.io/badge/✨Python-yellow?style=for-the-badge&logo=python&logoColor=blue&animation=spin)  
+![C#](https://img.shields.io/badge/🔹C%23-green?style=for-the-badge&logo=c-sharp&logoColor=white&animation=spin)  
+![JavaScript](https://img.shields.io/badge/⚡JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=yellow&animation=spin)  
+![PHP](https://img.shields.io/badge/🛡️PHP-purple?style=for-the-badge&logo=php&logoColor=white&animation=spin)  
+![HTML](https://img.shields.io/badge/🌠HTML-orange?style=for-the-badge&logo=html5&logoColor=white&animation=spin)  
+![CSS](https://img.shields.io/badge/🌌CSS-blue?style=for-the-badge&logo=css3&logoColor=white&animation=spin)  
+![ASP.NET](https://img.shields.io/badge/⚔️ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&animation=spin)  
+![Bootstrap](https://img.shields.io/badge/🚀Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&animation=spin)  
+![SQL Server](https://img.shields.io/badge/🛡️SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&animation=spin)  
+![MySQL](https://img.shields.io/badge/🌌MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&animation=spin)  
+![Oracle APEX](https://img.shields.io/badge/✨OracleAPEX-F80000?style=for-the-badge&logo=oracle&logoColor=white&animation=spin)  
 
 ---
 
@@ -47,15 +52,16 @@
 ---
 
 ## 🌟 Star Projects
+
 - [**Engineering Online Contractor (EOC)**](https://github.com/raghadfullstack/EOC)  
-  A responsive web application connecting clients with skilled engineers across the galaxy.  
+  🚀 A responsive web application connecting clients with skilled engineers across the galaxy.  
   *Tech Stack: HTML, CSS, JavaScript, PHP, MySQL*  
 
 - [**Book Store Website**](https://github.com/raghadfullstack/Libarary)  
-  Dynamic online bookstore powered by the Force with interactive front-end.  
+  🛸 Dynamic online bookstore powered by the Force with interactive front-end.  
 
 - [**Coffee Store Website**](https://github.com/raghadfullstack/coffee-shop)  
-  PHP-based e-commerce platform with full database integration to fuel Jedi missions.  
+  🌌 PHP-based e-commerce platform with full database integration to fuel Jedi missions.  
 
 ---
 
