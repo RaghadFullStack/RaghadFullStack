@@ -1,5 +1,7 @@
-<!-- خلفية نجوم متحركة في الأعلى -->
-
+<!-- 🌌 GIF نجوم متحركة أعلى الصفحة -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Galaxy Stars" width="100%" />
+</p>
 
 # 🌌 Greetings, I am Raghad Alotaibi  
 
@@ -8,6 +10,11 @@
 
 ---
 
+<!-- 🌠 Divider GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Divider Stars" width="100%" />
+</p>
+
 ## 🚀 About Me  
 - 🎓 Diploma in Computer Programming (GPA: 4.85/5)  
 - 💼 Internship @ King Fahad Medical City (2025)  
@@ -15,6 +22,10 @@
 - 🌠 Passionate about building web applications across the galaxy  
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Divider Stars" width="100%" />
+</p>
 
 ## 🛠 Jedi Tech Stack  
 
@@ -33,6 +44,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Divider Stars" width="100%" />
+</p>
+
 ## 🌟 Galactic Widgets  
 
 ### 🔥 GitHub Streak  
@@ -49,17 +64,21 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Divider Stars" width="100%" />
+</p>
+
 ## 🌟 Star Projects
 
-- [**Engineering Online Contractor (EOC)**](https://github.com/raghadfullstack/EOC)  
-  🚀 A responsive web application connecting clients with skilled engineers across the galaxy.  
+- 🚀 [**Engineering Online Contractor (EOC)**](https://github.com/raghadfullstack/EOC)  
+  A responsive web application connecting clients with skilled engineers across the galaxy.  
   *Tech Stack: HTML, CSS, JavaScript, PHP, MySQL*  
 
-- [**Book Store Website**](https://github.com/raghadfullstack/Libarary)  
-  🛸 Dynamic online bookstore powered by the Force with interactive front-end.  
+- 🛸 [**Book Store Website**](https://github.com/raghadfullstack/Libarary)  
+  Dynamic online bookstore powered by the Force with interactive front-end.  
 
-- [**Coffee Store Website**](https://github.com/raghadfullstack/coffee-shop)  
-  🌌 PHP-based e-commerce platform with full database integration to fuel Jedi missions.  
+- 🌌 [**Coffee Store Website**](https://github.com/raghadfullstack/coffee-shop)  
+  PHP-based e-commerce platform with full database integration to fuel Jedi missions.  
 
 ---
 
