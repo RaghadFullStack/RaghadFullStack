@@ -50,16 +50,13 @@
 ## 🌟 Star Projects
 
 - 🚀 [**Engineering Online Contractor (EOC)**](https://github.com/raghadfullstack/EOC)  
-  ![Ship GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
   A responsive web application connecting clients with skilled engineers across the galaxy.  
   *Tech Stack: HTML, CSS, JavaScript, PHP, MySQL*  
 
 - 🛸 [**Book Store Website**](https://github.com/raghadfullstack/Libarary)  
-  ![Ship GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
   Dynamic online bookstore powered by the Force with interactive front-end.  
 
 - 🌌 [**Coffee Store Website**](https://github.com/raghadfullstack/coffee-shop)  
-  ![Ship GIF](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)  
   PHP-based e-commerce platform with full database integration to fuel Jedi missions.  
 
 ---
